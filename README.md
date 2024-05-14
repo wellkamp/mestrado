@@ -16,7 +16,7 @@
 <p>O código está finalizado para dissertação mas em construção para melhorias.</p>
 
 <h2 id='objetivo'>Objetivo</h2>
-<p>O objetivo geral deste código é a classificação da potabilidade da água por meio do uso de aprendizado de máquina utilizando modelos de aprendizagem supervisionada utilizando o conjunto de dados <a href="#https://www.kaggle.com/datasets/adityakadiwal/water-potability">water quality</a> encontrado no repositório <a href="#https://www.kaggle.com/">Kaggle</a>.</p>
+<p>O objetivo geral deste código é a classificação da potabilidade da água por meio do uso de aprendizado de máquina utilizando modelos de aprendizagem supervisionada utilizando o conjunto de dados <a href="https://www.kaggle.com/datasets/adityakadiwal/water-potability">water quality</a> encontrado no repositório <a href="https://www.kaggle.com/">Kaggle</a>.</p>
 <h3>Objetivos especificos</h3>
 <p>Apresentar o código para a comunidade.</p>
 
@@ -27,9 +27,6 @@
   <li>water-potability-prediction-full-dataset: código final utilizando todas as amostras do conjunto de dados. </li>
   <li>water-potability-prediction.ipynb: código final refatorado.</li>
 </ul>
-<h3>Objetivos especificos</h3>
-<p>Apresentar o código para a comunidade.</p>
-
 
 <h2 id='prerequisitos'>Pré-requisitos</h2>
 <p> Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
