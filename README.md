@@ -1,6 +1,6 @@
 <h1> Código final do mestrado com o seguinte título: </h1> 
 <h2> Uso de Modelos de Aprendizado Supervisionado para Classificação da Potabilidade da Água </h2>
-<p>Este código foi implementado para a construção da dissertação para titulação de mestre em engenharia eletrônica e computação pela Universidade Católica de Pelotas(UCPEL) </p>
+<p>Este código foi implementado para a construção da dissertação para titulação de mestre em engenharia eletrônica e computação pela Universidade Católica de Pelotas (UCPEL). </p>
 
 <p align="center">
  <a href="#status">Status do projeto</a> •
